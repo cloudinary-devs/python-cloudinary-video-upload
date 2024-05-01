@@ -1,4 +1,4 @@
-# Cloudinary Video Upload Sample App
+# Cloudinary Video Upload Sample Code Snippet
 This repository features a sample application for uploading short and long videos to Cloudinary. To set up and run this sample:
 
 * **Download the Repository**: Clone this repository to your local machine.
