@@ -6,5 +6,3 @@ This repository features a sample application for uploading short and long video
 * **Run the Application**: Launch the sample app to begin uploading videos to Cloudinary.
   
 That's it! You're ready to start uploading videos with ease.
-
-
